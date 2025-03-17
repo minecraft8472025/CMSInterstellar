@@ -104,6 +104,7 @@ const routes = [
   { path: "/vk", file: "settings.html" },
   { path: "/rx", file: "tabs.html" },
   { path: "/", file: "index.html" },
+  { path: "/e", file: "EaglercraftX_1.8_u41_Offline_Signed.html" },
 ];
 
 // biome-ignore lint/complexity/noForEach:

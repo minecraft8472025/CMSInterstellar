@@ -3,6 +3,8 @@ const config = {
   users: {
     // You can add multiple users by doing username: 'password'.
     PikachuFan847: "PIKACHU!*)(&!",
+    MoltenVc3: "Vincent",
+    dogishknight06: "Gal",
   },
 };
 
