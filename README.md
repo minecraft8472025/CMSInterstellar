@@ -45,7 +45,7 @@ cd Interstellar
 #### Ad-Free Deployment
 
 ```bash
-git clone --branch Ad-Free https://github.com/UseInterstellar/Interstellar
+git clone https://github.com/UseInterstellar/Interstellar
 cd Interstellar
 ```
 
