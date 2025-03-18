@@ -42,13 +42,6 @@ git clone https://github.com/UseInterstellar/Interstellar
 cd Interstellar
 ```
 
-#### Ad-Free Deployment
-
-```bash
-git clone https://github.com/UseInterstellar/Interstellar
-cd Interstellar
-```
-
 Next depending on your package manager, run one of the following commands:
 
 #### Bun
