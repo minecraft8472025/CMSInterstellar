@@ -6,7 +6,8 @@ const config = {
     MoltenVc3: "Turkey12!",
     dog_16: "Gal",
     Hayden: "Mewisthebest1264",
-    Gwen: "Gwen"
+    Gwen: "Gwen",
+    Ava: "cuteKitty",
   },
 };
 
