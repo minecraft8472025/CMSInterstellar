@@ -5,6 +5,7 @@ const config = {
     PikachuFan847: "PIKACHU!*)(&!",
     MoltenVc3: "Turkey12!",
     dog_16: "Gal",
+    Hayden: "Mewisthebest1264"
   },
 };
 
